@@ -7,3 +7,18 @@ What	did	you	need	to	do	to	procure	it?		What	tools	or	code	did	you	need	to	use	t
 prepare	it	for	analysis?		What	challenges	did	you	face?	
 2. Analysis:	What	trends,	correlations	and/or	patterns	do	you	see	in	the	data?	
 3. Conclusions:	What	did	you	learn	about	your	data	set?	
+
+
+
+
+
+You can use this data to determine brand markups, pricing strategies, and trends for luxury shoes. E.g.:
+
+What is the average price of each distinct brand listed?
+Which brands have the highest prices?
+Which ones have the widest distribution of prices?
+Is there a typical price distribution (e.g., normal) across brands or within specific brands?
+Further processing data would also let you:
+
+Correlate specific product features with changes in price.
+You can cross-reference this data with a sample of our Men's Shoe Prices to see if there are any differences between women's brands and men's brands.
