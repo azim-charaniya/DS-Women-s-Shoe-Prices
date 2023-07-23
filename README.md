@@ -6,6 +6,8 @@ https://colab.research.google.com/drive/1HNTf0o4XSxNhsesdOwxGmzQ7XusYCJes?usp=sh
 
 https://www.kaggle.com/datasets/datafiniti/womens-shoes-prices?datasetId=1163&sortBy=voteCount
 
+new dataset: https://www.kaggle.com/datasets/nguyenngocphung/womens-shoe-prices
+
 About Dataset
 About This Data
 
