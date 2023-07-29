@@ -8,6 +8,8 @@ https://www.kaggle.com/datasets/datafiniti/womens-shoes-prices?datasetId=1163&so
 
 new dataset: https://www.kaggle.com/datasets/nguyenngocphung/womens-shoe-prices
 
+google doc: https://docs.google.com/document/d/1Lr_mt_r-vldfflHaYL41l2aWMqfz7ZII_SU1j7hIPUo/edit?usp=sharing
+
 About Dataset
 About This Data
 
