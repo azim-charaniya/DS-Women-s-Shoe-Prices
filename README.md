@@ -10,6 +10,8 @@ new dataset: https://www.kaggle.com/datasets/nguyenngocphung/womens-shoe-prices
 
 google doc: https://docs.google.com/document/d/1Lr_mt_r-vldfflHaYL41l2aWMqfz7ZII_SU1j7hIPUo/edit?usp=sharing
 
+slides: https://1drv.ms/p/s!AoE53msHB_GTgchFi4cTRHkgATlO6w?e=FgVnhO
+
 About Dataset
 About This Data
 
